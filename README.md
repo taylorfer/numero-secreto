@@ -54,9 +54,14 @@ Sinta-se à vontade para abrir issues e pull requests! 😊
 ## Contatos:
 
 <div>
-<a href = "taylorfrnnds93@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href=" https://www.linkedin.com/in/taylor-fernandes-47117011a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="mailto:taylorfrnnds93@gmail.com" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/taylor-fernandes-47117011a/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
+
 
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
